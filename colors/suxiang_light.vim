@@ -1,7 +1,7 @@
 " Vim 颜色文件
 " 主题: 素缃·光 (suxiang_light)
 " 描述: 从 VSCode 主题 "素缃·光" 转换而来的 Vim 颜色方案，基于温润的书香古风配色设计。
-" 维护者: Antigravity
+" 维护者: Mosaulse
 
 set background=light
 highlight clear
